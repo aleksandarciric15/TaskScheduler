@@ -1,0 +1,54 @@
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\FSDokan.exe
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\FSDokan.deps.json
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\FSDokan.runtimeconfig.json
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\FSDokan.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\FSDokan.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\DokanNet.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\de\DokanNet.resources.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\fr\DokanNet.resources.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\sv\DokanNet.resources.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.csproj.CopyComplete
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\refint\FSDokan.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\FSDokan.genruntimeconfig.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\obj\Debug\net6.0\ref\FSDokan.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\FSDokan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\FSDokan.exe
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\FSDokan.deps.json
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\FSDokan.runtimeconfig.json
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\FSDokan.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\FSDokan.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\DokanNet.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\de\DokanNet.resources.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\fr\DokanNet.resources.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\sv\DokanNet.resources.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.csproj.CopyComplete
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\refint\FSDokan.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\FSDokan.genruntimeconfig.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\FSDokan\obj\Debug\net6.0\ref\FSDokan.dll
