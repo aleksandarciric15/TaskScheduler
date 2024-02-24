@@ -1,0 +1,35 @@
+﻿<Window x:Class="GUI.NewTaskWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Task Settings" Height="745" Width="661">
+    <Grid Height="723" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="504*"/>
+            <RowDefinition Height="152*"/>
+            <RowDefinition Height="67*"/>
+        </Grid.RowDefinitions>
+        <ComboBox x:Name="typeOfTasks" HorizontalAlignment="Left" Margin="35,48,0,0" VerticalAlignment="Top" Width="245" Height="35"/>
+        <Label Content="Type of the task" HorizontalAlignment="Left" Margin="323,49,0,0" VerticalAlignment="Top" Width="213" FontSize="18" Height="34"/>
+        <DatePicker x:Name="deadlineTime" HorizontalAlignment="Left" Margin="35,111,0,0" VerticalAlignment="Top" Height="31" Width="245" FontSize="18"/>
+        <Label Content="Deadline" HorizontalAlignment="Left" Margin="323,111,0,0" VerticalAlignment="Top" Height="31" Width="213" FontSize="18"/>
+        <TextBox x:Name="maxExecTime" HorizontalAlignment="Left" Margin="35,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245" Height="34" FontSize="18"/>
+        <Label Content="Maximum execution time [s]" HorizontalAlignment="Left" Margin="323,176,0,0" VerticalAlignment="Top" Height="34" Width="262" FontSize="18"/>
+        <TextBox x:Name="maxDegreeOfParallelism" HorizontalAlignment="Left" Margin="35,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245" Height="37" FontSize="18"/>
+        <Label Content="Maximum degree of parallelism" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="323,240,0,0" Height="37" Width="271" FontSize="18"/>
+        <ComboBox x:Name="taskPriority" HorizontalAlignment="Left" Margin="35,306,0,0" VerticalAlignment="Top" Width="245" Height="34" FontSize="18"/>
+        <Label Content="Task priority" HorizontalAlignment="Left" Margin="323,305,0,0" VerticalAlignment="Top" Height="34" Width="247" FontSize="18"/>
+        <Label Content="Resources:&#xD;&#xA;" HorizontalAlignment="Left" Margin="35,391,0,0" VerticalAlignment="Top" Height="39" Width="245" FontSize="18"/>
+        <Button Content="AddResource" HorizontalAlignment="Left" Margin="323,391,0,0" VerticalAlignment="Top" Height="39" Width="173" FontSize="18" Click="Button_Click"/>
+        <ListBox x:Name="resourceLb" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,435,0,90" Grid.RowSpan="2"/>
+        <Label Content="Output folder:" HorizontalAlignment="Left" Height="33" Margin="10,78,0,0" VerticalAlignment="Top" Width="177" FontSize="18" Grid.Row="1"/>
+        <Button Content="Add output folder" HorizontalAlignment="Left" Margin="323,78,0,0" VerticalAlignment="Top" Height="33" Width="173" FontSize="18" Click="Button_Click_1" Grid.Row="1"/>
+        <Button Content="Create taske" HorizontalAlignment="Left" Margin="458,3,0,0" VerticalAlignment="Top" Height="42" Width="178" FontSize="18" Grid.Row="2" Click="Button_Click_2"/>
+        <Label x:Name="outputFolder" Content="" HorizontalAlignment="Left" Margin="35,116,0,0" Grid.Row="1" VerticalAlignment="Top" Height="31" Width="559"/>
+
+
+    </Grid>
+</Window>

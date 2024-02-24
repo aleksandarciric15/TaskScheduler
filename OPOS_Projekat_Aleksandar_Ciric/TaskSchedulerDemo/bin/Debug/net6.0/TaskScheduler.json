@@ -1,0 +1,108 @@
+{
+  "$type": "Scheduler.FifoScheduler, Scheduler",
+  "allResources": {
+    "$type": "System.Collections.Generic.HashSet`1[[Scheduler.Resource, Scheduler]], System.Private.CoreLib",
+    "$values": []
+  },
+  "tasks": {
+    "$type": "System.Collections.Generic.HashSet`1[[Scheduler.Task, Scheduler]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Scheduler.SimpleTask, Scheduler",
+        "endLoopNumber": 3,
+        "deadLockDetected": false,
+        "jobState": 2,
+        "degreeOfParallelism": 0,
+        "stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:03.2647173",
+          "ElapsedMilliseconds": 3264,
+          "ElapsedTicks": 32647173
+        },
+        "resources": {
+          "$type": "System.Collections.Generic.List`1[[Scheduler.Resource, Scheduler]], System.Private.CoreLib",
+          "$values": []
+        },
+        "id": 1,
+        "numLoops": 100,
+        "name": "1",
+        "priority": 0,
+        "startTime": "0001-01-01T00:00:00",
+        "endTime": "0001-01-01T00:00:00",
+        "durationTime": 0
+      }
+    ]
+  },
+  "waitTasks": {
+    "$type": "System.Collections.Generic.Queue`1[[Scheduler.Task, Scheduler]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Scheduler.SimpleTask, Scheduler",
+        "endLoopNumber": 0,
+        "deadLockDetected": false,
+        "jobState": 0,
+        "degreeOfParallelism": 0,
+        "stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00",
+          "ElapsedMilliseconds": 0,
+          "ElapsedTicks": 0
+        },
+        "resources": {
+          "$type": "System.Collections.Generic.List`1[[Scheduler.Resource, Scheduler]], System.Private.CoreLib",
+          "$values": []
+        },
+        "id": 2,
+        "numLoops": 100,
+        "name": "2",
+        "priority": 0,
+        "startTime": "0001-01-01T00:00:00",
+        "endTime": "0001-01-01T00:00:00",
+        "durationTime": 0
+      },
+      {
+        "$type": "Scheduler.SimpleTask, Scheduler",
+        "endLoopNumber": 0,
+        "deadLockDetected": false,
+        "jobState": 0,
+        "degreeOfParallelism": 0,
+        "stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00",
+          "ElapsedMilliseconds": 0,
+          "ElapsedTicks": 0
+        },
+        "resources": {
+          "$type": "System.Collections.Generic.List`1[[Scheduler.Resource, Scheduler]], System.Private.CoreLib",
+          "$values": []
+        },
+        "id": 3,
+        "numLoops": 100,
+        "name": "3",
+        "priority": 0,
+        "startTime": "0001-01-01T00:00:00",
+        "endTime": "0001-01-01T00:00:00",
+        "durationTime": 0
+      }
+    ]
+  },
+  "waitTasksPriority": {
+    "$type": "System.Collections.Generic.PriorityQueue`2[[Scheduler.Task, Scheduler],[System.Int32, System.Private.CoreLib]], System.Collections",
+    "Count": 0,
+    "Comparer": {
+      "$type": "System.Collections.Generic.GenericComparer`1[[System.Int32, System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "UnorderedItems": {
+      "$type": "System.Collections.Generic.PriorityQueue`2+UnorderedItemsCollection[[Scheduler.Task, Scheduler],[System.Int32, System.Private.CoreLib]], System.Collections",
+      "$values": []
+    }
+  },
+  "allTasks": {
+    "$type": "System.Collections.Generic.List`1[[Scheduler.Task, Scheduler]], System.Private.CoreLib",
+    "$values": []
+  },
+  "maxCurrentTasks": 1
+}

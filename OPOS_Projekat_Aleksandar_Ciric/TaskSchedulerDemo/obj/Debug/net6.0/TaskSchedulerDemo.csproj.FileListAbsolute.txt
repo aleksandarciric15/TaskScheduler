@@ -1,0 +1,46 @@
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.exe
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.deps.json
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.runtimeconfig.json
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CopyComplete
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\refint\TaskSchedulerDemo.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.genruntimeconfig.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\obj\Debug\net6.0\ref\TaskSchedulerDemo.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\TaskSchedulerDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.exe
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.deps.json
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.runtimeconfig.json
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CopyComplete
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\refint\TaskSchedulerDemo.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.genruntimeconfig.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\TaskSchedulerDemo\obj\Debug\net6.0\ref\TaskSchedulerDemo.dll

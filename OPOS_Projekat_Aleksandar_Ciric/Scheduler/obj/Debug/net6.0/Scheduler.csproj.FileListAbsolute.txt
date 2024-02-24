@@ -1,0 +1,36 @@
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\bin\Debug\net6.0\Scheduler.deps.json
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\bin\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\Scheduler.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\refint\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\Scheduler\obj\Debug\net6.0\ref\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\bin\Debug\net6.0\Scheduler.deps.json
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\bin\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\Scheduler.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\refint\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\Scheduler\obj\Debug\net6.0\ref\Scheduler.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\bin\Debug\net6.0\Scheduler.deps.json
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\bin\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\Scheduler.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\Scheduler.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\refint\Scheduler.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\Scheduler.pdb
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\Scheduler\obj\Debug\net6.0\ref\Scheduler.dll

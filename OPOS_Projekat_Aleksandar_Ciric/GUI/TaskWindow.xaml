@@ -1,0 +1,21 @@
+﻿<Window x:Class="GUI.TaskWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="TaskWindow" Height="450" Width="800"
+        Closing="WindowClosing">
+    <Grid>
+        <Button x:Name="newTask" Content="New task" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Height="37" Width="98" FontSize="16" Background="#FFADB1F6" Click="Button_Click"/>
+        <Button x:Name="saveButton" Content="Save" HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top" Height="42" Width="98" Background="#FF96B7E5" FontSize="16" Click="Button_Click_1"/>
+        <StackPanel Margin="113,0,0,372">
+            <Label Content="TASKS" Width="236" Height="61" FontSize="18" HorizontalContentAlignment="Center"/>
+        </StackPanel>
+        <ScrollViewer Margin="108,67,0,0">
+            <StackPanel x:Name="tasksSP" Height="369" Width="671"/>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

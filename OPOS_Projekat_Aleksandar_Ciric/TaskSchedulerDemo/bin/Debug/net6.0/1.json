@@ -1,0 +1,27 @@
+{
+  "$type": "Scheduler.SimpleTask, Scheduler",
+  "endLoopNumber": 16,
+  "deadLockDetected": false,
+  "jobState": 2,
+  "degreeOfParallelism": 0,
+  "stopwatch": {
+    "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+    "IsRunning": false,
+    "Elapsed": "00:00:06.9718448",
+    "ElapsedMilliseconds": 6971,
+    "ElapsedTicks": 69718448
+  },
+  "progressBarPercentage": 0.15,
+  "resources": {
+    "$type": "System.Collections.Generic.List`1[[Scheduler.Resource, Scheduler]], System.Private.CoreLib",
+    "$values": []
+  },
+  "id": 1,
+  "serialNumber": 1,
+  "numLoops": 100,
+  "name": "Zadatak1",
+  "priority": 0,
+  "startTime": "0001-01-01T00:00:00",
+  "endTime": "0001-01-01T00:00:00",
+  "durationTime": 0
+}

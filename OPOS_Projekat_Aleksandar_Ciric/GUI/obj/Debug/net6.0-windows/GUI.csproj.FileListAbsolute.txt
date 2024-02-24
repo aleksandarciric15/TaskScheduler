@@ -1,0 +1,123 @@
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\TaskWindow.g.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\TaskWindow.baml
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\NewTaskWindow.g.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\NewTaskWindow.baml
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\ProgressBar.g.cs
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\obj\Debug\net6.0-windows\ProgressBar.baml
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Ookii.Dialogs.Wpf.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS 2022 Primjer jednostavnog prioritetnog raspoređivača zadataka sa mehanizmom kooperativnog pauziranja\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Ookii.Dialogs.Wpf.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Scheduler.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\bin\Debug\net6.0-windows\Scheduler.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\NewTaskWindow.g.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\ProgressBar.g.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\TaskWindow.g.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\NewTaskWindow.baml
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\ProgressBar.baml
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\TaskWindow.baml
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\aleks\Desktop\OPOS_Projekat\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Ookii.Dialogs.Wpf.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Scheduler.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\bin\Debug\net6.0-windows\Scheduler.pdb
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\NewTaskWindow.g.cs
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\ProgressBar.g.cs
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\TaskWindow.g.cs
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\NewTaskWindow.baml
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\ProgressBar.baml
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\TaskWindow.baml
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Treca Godina\5. Semestar\OPOS\OPOS_Projekat_Aleksandar_Ciric\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
